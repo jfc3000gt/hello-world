@@ -1,2 +1,3 @@
 # hello-world
 First 
+Hellow everyone! John here  trying to learn as much as i can from this tutorial! is it the begining of something special? who knows!!! Let's find out....
